@@ -1,12 +1,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 
-<a href="https://github.com/user/repo" class="btn waves-effect waves-light">
-  <i class="material-icons">code</i> Veja o código
-</a>
-
 ### Sobre: 
 
-## Tecnologias: 
+## Linguagens: 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="25px"> Kotlin
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="25px"> Git
 - <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="25px"> GitHub
