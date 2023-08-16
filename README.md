@@ -1,5 +1,3 @@
-# My name is Kevin Kley
-
 ### Sobre: 
 
 ## Tecnologias: 
