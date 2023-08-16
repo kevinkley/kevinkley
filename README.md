@@ -4,6 +4,7 @@ Principais tecnologias
 Ferramentas de Desenvolvimento
 Contatos
 
-<img src="https://cdn.cdnlogo.com/logos/f/30/flutter.svg" width="25px"> Flutter
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="25px"> Git
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="25px"> GitHub
 
 **EM CONSTRUÇÃO PERFIL** 🫠
