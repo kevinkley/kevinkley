@@ -4,4 +4,4 @@ Principais tecnologias
 Ferramentas de Desenvolvimento
 Contatos
 
-**EM CONSTRUÇÃO PERFIL**
+**EM CONSTRUÇÃO PERFIL** 🫠
