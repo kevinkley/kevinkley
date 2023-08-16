@@ -1,3 +1,9 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+<a href="https://github.com/user/repo" class="btn waves-effect waves-light">
+  <i class="material-icons">code</i> Veja o código
+</a>
+
 ### Sobre: 
 
 ## Tecnologias: 
