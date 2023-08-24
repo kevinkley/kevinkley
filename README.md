@@ -1,3 +1,5 @@
+<img src=https://github.com/kevinkley/kevinkley/assets/126471679/28ffa78f-fa94-4fac-8743-5fa38f0f0164 width="130">
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 ### Sobre: 
@@ -12,4 +14,5 @@
 ## Entre em Contato<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 # EM CONSTRUÇÃO PERFIL 🫠
+
 
